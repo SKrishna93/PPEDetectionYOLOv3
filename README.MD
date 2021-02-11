@@ -1,16 +1,12 @@
-# Session 13 - Object Detection using Yolo
+# Object Detection using Yolo
 
 **Part A Notebook -**
-[![Open Jupyter Notebook](Images/nbviewer_badge.png)](https://nbviewer.jupyter.org/github/anubhabPanda/TSAI-EVA5/blob/master/Week13/EVA5S13_PartA.ipynb)
+[![Open Jupyter Notebook](Images/nbviewer_badge.png)](https://nbviewer.jupyter.org/github/SKrishna93/PPEDetectionYOLOv3/blob/main/EVA5S13_PartA.ipynb)
 
 **Part B Notebook -**
-[![Open Jupyter Notebook](Images/nbviewer_badge.png)](https://nbviewer.jupyter.org/github/anubhabPanda/TSAI-EVA5/blob/master/Week13/EVA5S13_PartB.ipynb)
+[![Open Jupyter Notebook](Images/nbviewer_badge.png)](https://nbviewer.jupyter.org/github//SKrishna93/PPEDetectionYOLOv3/blob/main/EVA5S13_PartB.ipynb)
 
-## Link to Object Detection Youtube Video
-
-[https://youtu.be/A8Z-5xBn_ZM](https://youtu.be/A8Z-5xBn_ZM)
-
-## Assignment Objective
+## Objective
 
 ### Part 1 (OpenCV Yolo)
 
@@ -33,13 +29,6 @@
 2. Download a very small video from Youtube which shows the classes.
 
 3. Run inference on the video
-
-4. Upload the video to Youtube
-
-5. Share link to Github Project
-
-6. Share link to Youtube Video
-
 
 # Part A Solution
 
@@ -76,6 +65,3 @@
 ## Result
 <img src="Images/results.png" width = "800px">
 <img src="Images/Result.PNG" width = "800px">
-
-
-[Click here for the full Youtube Video](https://youtu.be/A8Z-5xBn_ZM)
